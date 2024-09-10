@@ -1,4 +1,5 @@
 # Changed title (again)
+##carli added this to the title  
 
 This is a basic example repository using Gnu make for a reproducible research workflow, as described in detail here: [tilburgsciencehub.com](http://tilburgsciencehub.com/). 
 
@@ -14,7 +15,6 @@ The main aim of this to have a basic structure, which can be easily adjusted to 
 - [TeX distribution](https://tilburgsciencehub.com/get/latex/?utm_campaign=referral-short)
 - For the `makefile` to work, R, Gnu make and the TeX distribution (specifically `pdflatex`) need to be made available in the system path 
 - Detailed installation instructions can be found here: [tilburgsciencehub.com](http://tilburgsciencehub.com/)
-
 
 ## Notes
 - `make clean` removes all unncessary temporary files. 
